@@ -1,2 +1,2 @@
 # hello-world
-Exercício utilizando as novas ferramentas
+Exercício utilizando o setup de ferramentas aprendidas na 1º aula do curso de Desenvolvimento de Software - Foco em Backend - iFood - da Cubos Academy.
